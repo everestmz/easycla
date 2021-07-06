@@ -1,0 +1,4 @@
+easycla:
+  root: cla-backend-go
+  language: go
+  version: "1.15"
